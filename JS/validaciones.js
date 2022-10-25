@@ -75,6 +75,7 @@ const mensajesDeError = {
 // valueMissing = en caso de que esté vacío
 // typeMismatch/patternMismatch = en caso de que esté mal escrito
 // customError = lo que dice el nombre
+// aaaaaa
 
 const validadores = {
     nacimiento: (input) => validarNacimiento(input),
